@@ -1,2 +1,3 @@
-Operators- 
-Input function- () used to call the function, whatever value is given is returned by the function
+Operators- + - / *     //(rounds to the minimum number after dividing) **   (power) %   (modulus- gives remainder)
+Input function- () used to call the function, whatever value is given is returned by the function					
+comments- hash-# to write comments will not get executed  by the interpretor, for multiline commments add ''' or """ in front and end.			
